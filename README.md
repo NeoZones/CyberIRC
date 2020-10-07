@@ -1,5 +1,5 @@
 # CyberIRC
-<img width="270" height="270" align="right" style="float: right; margin: 0 10px 0 0;" alt="The profile picture for the bot" src="iCyberIRC.png">
+<img width="270" height="270" align="right" style="float: right; margin: 0 10px 0 0;" alt="The profile picture for the bot" src="CyberIRC.png">
 
 CyberIRC, as the name suggests, is an IRC bot... for IRC... The code itself is based upon [CyberBus](https://wiki.neozones.club/index.php?title=CyberBus), another bot that I, in-part, wrote. As of publication for CyberIRC, the code for CyberBus has not yet been published, although it has been planed to be.
 
